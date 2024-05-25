@@ -25,6 +25,6 @@ public class no_03_Calculate_Percentage {
 
          float percentage=sum/500.0f*100;
 
-         System.out.format("The Percentage Of CBSE Student Is : %f", percentage);
+         System.out.format("The Percentage Of Student Is : %f", percentage);
     }
 }
